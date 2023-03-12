@@ -1,3 +1,7 @@
 nhan vien b
 
+<<<<<<< HEAD
 noi dung main
+=======
+jdflkfsj
+>>>>>>> NhanVienC
